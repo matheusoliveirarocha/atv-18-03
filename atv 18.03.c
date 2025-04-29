@@ -12,13 +12,13 @@
 
 // int main() {
 //     int num;
-//     printf("Digite um numero inteiro n„o negativo: ");
+//     printf("Digite um numero inteiro n√£o negativo: ");
 //     scanf("%d", &num);
     
 //     if (num < 0) {
-//         printf("Por favor, digite um n˙mero n„o negativo.\n");
+//         printf("Por favor, digite um n√∫mero n√£o negativo.\n");
 //     } else {
-//         printf("Fatorial de %d È %d\n", num, fatorial(num));
+//         printf("Fatorial de %d √© %d\n", num, fatorial(num));
 //     }
     
 //     return 0;
@@ -37,13 +37,13 @@
 
 // int main() {
 //     int num;
-//     printf("Digite um numero inteiro n„o negativo: ");
+//     printf("Digite um numero inteiro n√£o negativo: ");
 //     scanf("%d", &num);
     
 //     if (num < 0) {
-//         printf("Por favor, digite um n˙mero n„o negativo.\n");
+//         printf("Por favor, digite um n√∫mero n√£o negativo.\n");
 //     } else {
-//         printf("Fatorial de %d È %d\n", num, fatorial(num));
+//         printf("Fatorial de %d √© %d\n", num, fatorial(num));
 //     }
     
 //     return 0;
@@ -72,7 +72,7 @@
 //     int n;
 //     printf("Digite um numero");
 //     scanf("%d", &n);
-//     printf("O %d∫ termo da sequÍncia de Fibonacci È: %d\n", n, fibonacci(n));
+//     printf("O %d¬∫ termo da sequ√™ncia de Fibonacci √©: %d\n", n, fibonacci(n));
 //     return 0;
 // }
 
@@ -135,7 +135,7 @@
 // int main() {
 //     int num;
     
-//     printf("Digite um n˙mero: ");
+//     printf("Digite um n√∫mero: ");
 //     scanf("%d", &num);
 
 //     printf("%d\n", SomaDig(num));
@@ -192,9 +192,9 @@
 //     str[strcspn(str, "\n")] = '\0';
 //     int tamanho = strlen(str);
 //     if (palindromo(str, 0, tamanho - 1)) {
-//         printf("A palavra È um palÌndromo.\n");
+//         printf("A palavra √© um pal√≠ndromo.\n");
 //     } else {
-//         printf("A palavra n„o È um palÌndromo.\n");
+//         printf("A palavra n√£o √© um pal√≠ndromo.\n");
 //     }
 //     return 0;
 // }
@@ -214,9 +214,9 @@
 
 // int main() {
 //     int a, b;
-//     printf("Digite dois n˙meros: ");
+//     printf("Digite dois n√∫meros: ");
 //     scanf("%d %d", &a, &b);
-//     printf("O MDC de %d e %d È: %d\n", a, b, mdc(a, b));
+//     printf("O MDC de %d e %d √©: %d\n", a, b, mdc(a, b));
 //     return 0;
 // }
 
@@ -235,7 +235,7 @@
 
 // int main() {
 //     int a, b;
-//     printf("Digite dois n˙meros: ");
+//     printf("Digite dois n√∫meros: ");
 //     scanf("%d %d", &a, &b);
 //     printf("Resultado: %d\n", multiplicar(a, b));
 //     return 0;
@@ -283,7 +283,7 @@
 // int main() {
 //     int arr[] = {1, 2, 3, 4};
 //     int tamanho = sizeof(arr) / sizeof(arr[0]);
-//     printf("A soma dos elementos do array È: %d\n", soma_array(arr, tamanho));
+//     printf("A soma dos elementos do array √©: %d\n", soma_array(arr, tamanho));
 //     return 0;
 // }
 
@@ -311,13 +311,13 @@
 
 // int main() {
 //     int n;
-//     printf("Digite um n˙mero: ");
+//     printf("Digite um n√∫mero: ");
 //     scanf("%d", &n);
 
 //     if (primo(n)) {
-//         printf("%d È primo.\n", n);
+//         printf("%d √© primo.\n", n);
 //     } else {
-//         printf("%d n„o È primo.\n", n);
+//         printf("%d n√£o √© primo.\n", n);
 //     }
 
 //     return 0;
@@ -337,10 +337,10 @@
 
 // int main() {
 //     int n;
-//     printf("Digite um n˙mero decimal: ");
+//     printf("Digite um n√∫mero decimal: ");
 //     scanf("%d", &n);
     
-//     printf("A representaÁ„o bin·ria de %d È: ", n);
+//     printf("A representa√ß√£o bin√°ria de %d √©: ", n);
 //     if (n == 0) {
 //         printf("0");
 //     } else {
@@ -366,10 +366,10 @@
 
 // int main() {
 //     int n;
-//     printf("Digite um n˙mero: ");
+//     printf("Digite um n√∫mero: ");
 //     scanf("%d", &n);
     
-//     printf("N˙meros pares de 0 atÈ %d: ", n);
+//     printf("N√∫meros pares de 0 at√© %d: ", n);
 //     imprimir_pares(n);
 //     printf("\n");
     
